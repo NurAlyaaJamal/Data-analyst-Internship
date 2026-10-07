@@ -25,6 +25,11 @@ The Uber Pantry stock records were kept in separate sheets, and the purchase est
 - **Preference index and trend** to flag low-preference items for phase-out or review.
 - **Accuracy Check** with data validation checks, 95% confidence intervals, outlier days, a forecast back-test (MAE, WAPE, bias, tracking signal) and a stock-out record.
 
+<img width="1287" height="563" alt="image" src="https://github.com/user-attachments/assets/3e624394-d511-4bd7-a53c-b85db2cee3ad" />
+<img width="988" height="699" alt="image" src="https://github.com/user-attachments/assets/4eddcb4c-7e45-4435-9dd8-595e58ed2bb2" />
+
+
+
 ## Workbook structure
 
 | Sheet | Purpose |
