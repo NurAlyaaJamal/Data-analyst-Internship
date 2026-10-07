@@ -1,11 +1,10 @@
 # Automated Inventory Control Dashboard System with Forecasting (Excel)
 
-Practicum project for **SQQXK49512**, Universiti Utara Malaysia (UUM), carried out at **The House of Taste Sdn Bhd**, Kuala Lumpur.
+Practicum project for **SQQXK49512**, Universiti Utara Malaysia (UUM).
 
 An Excel workbook that turns the daily pantry stock count and the storehouse records of the **Uber Pantry** into a live dashboard, a ranked purchase order, ABC/XYZ classes, safety stock and reorder points, and forecast and data accuracy checks. Management enters only the daily counts and storehouse movements, and everything else is calculated by formulas.
 
 > **Author:** Nur Alyaa binti Jamal (Matric 294262)
-> **Supervisor (UUM):** Dr Nurul Najiha binti Jafery
 > **Status:** Practicum project, September 2026 data
 
 ---
@@ -25,9 +24,9 @@ The Uber Pantry stock records were kept in separate sheets, and the purchase est
 - **Preference index and trend** to flag low-preference items for phase-out or review.
 - **Accuracy Check** with data validation checks, 95% confidence intervals, outlier days, a forecast back-test (MAE, WAPE, bias, tracking signal) and a stock-out record.
 
-<img width="1287" height="563" alt="image" src="https://github.com/user-attachments/assets/3e624394-d511-4bd7-a53c-b85db2cee3ad" />
-<img width="988" height="699" alt="image" src="https://github.com/user-attachments/assets/4eddcb4c-7e45-4435-9dd8-595e58ed2bb2" />
+<img width="1138" height="492" alt="image" src="https://github.com/user-attachments/assets/37d91c0c-c618-4949-8751-38c015454d4e" />
 
+<img width="989" height="700" alt="image" src="https://github.com/user-attachments/assets/e96ea8e8-8dce-463f-bde7-eadb4a9e39e1" />
 
 
 ## Workbook structure
